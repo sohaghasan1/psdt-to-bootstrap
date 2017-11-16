@@ -1,0 +1,95 @@
+@media (max-width: 767px) { 
+    .achive_description h1{ 
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 25px;
+        font-weight: bold;}
+    
+    .header_bg{
+    background: url(../images/sidebar_img@_xs.jpg) no-repeat;
+    min-height: 651px;
+    background-size: cover;
+    background-position: center center;
+}
+    .header_caption{
+        width: 25%;
+    margin: 203px auto;
+    
+}
+.header_caption h1{
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 25px;
+    
+    
+}
+.header_caption .see_details{
+    background-color: black;
+    padding: 10px 20px;
+    float: right;
+        margin-top: 12px;
+    
+} 
+    .feature_content h1{
+        color: black;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 46px 0px;
+    
+}
+.feature_content p{
+   color: black;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: bold;
+    
+}
+    .achivment_bg{
+        background: url(../images/snowboarding_xs.jpg) no-repeat;
+    min-height: 651px;
+    background-size: cover;
+    background-position: center center;
+}
+}
+@media (min-width: 768px) and (max-width:991px) { 
+    .header_bg{
+    background: url(../images/sidebar_img@_sm.jpg) no-repeat;
+    min-height: 651px;
+    background-size: cover;
+    background-position: center center;
+}
+   .header_caption{
+        width: 40%;
+    margin: 203px auto;
+    
+}
+.header_caption h1{
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 60px;
+    
+    
+}
+.header_caption .see_details{
+    background-color: black;
+    padding: 10px 20px;
+    float: right;
+        margin-top: 12px;
+    
+}
+    .achivment_bg{
+        background: url(../images/snowboarding_sm.jpg) no-repeat;
+    min-height: 651px;
+    background-size: cover;
+    background-position: center center;
+}
+}
+@media (min-width:992px) and (max-width:1199px) { ..header_caption{
+        width: 40%;
+    margin: 203px auto; }
+    
+    }
+@media (min-width: 1200px) { ... }

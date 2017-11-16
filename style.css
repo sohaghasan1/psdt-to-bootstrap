@@ -1,0 +1,217 @@
+.header{
+    background-color: black;
+    min-height: 100px;
+}
+.nav_style{
+    background-color: transparent;
+    border: 0px;
+    border-radius: 0px;
+    color: white;
+    box-shadow: none;
+}
+.nav li a{
+    color: white! important;
+    text-transform: uppercase;
+}
+.logo{
+    padding-top: 18px;
+}
+.nav_bar{
+        padding-top: 22px;
+    
+}
+.header_bg{
+    background: url(../images/sidebar_img@.jpg) no-repeat;
+    min-height: 651px;
+    background-size: cover;
+    background-position: center center;
+}
+.header_caption{
+        width: 40%;
+    margin: 203px auto;
+    
+}
+.header_caption h1{
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 80px;
+    
+    
+}
+.header_caption .see_details{
+    background-color: black;
+    padding: 10px 20px;
+    float: right;
+        margin-top: 12px;
+    
+}
+
+
+.multi-item-carousel .carousel-inner > .item {
+  -webkit-transition: 500ms ease-in-out left;
+  transition: 500ms ease-in-out left;
+}
+.multi-item-carousel .carousel-inner .active.left {
+  left: -33%;
+}
+.multi-item-carousel .carousel-inner .active.right {
+  left: 33%;
+}
+.multi-item-carousel .carousel-inner .next {
+  left: 33%;
+}
+.multi-item-carousel .carousel-inner .prev {
+  left: -33%;
+}
+@media all and (transform-3d), (-webkit-transform-3d) {
+  .multi-item-carousel .carousel-inner > .item {
+    -webkit-transition: 500ms ease-in-out left;
+    transition: 500ms ease-in-out left;
+    -webkit-transition: 500ms ease-in-out all;
+    transition: 500ms ease-in-out all;
+    -webkit-backface-visibility: visible;
+            backface-visibility: visible;
+    -webkit-transform: none!important;
+            transform: none!important;
+  }
+}
+.multi-item-carousel .carouse-control.left,
+.multi-item-carousel .carouse-control.right {
+  background-image: none;
+}
+body {
+  background: #333;
+  color: #ddd;
+}
+h1 {
+  color: white;
+  font-size: 2.25em;
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 2em;
+  text-shadow: 0px 2px 0px #000000;
+}
+
+.feature_bg{
+    background-color: white;
+}
+.feature_content{
+  text-align: center;
+}
+.feature_content h1{
+        color: black;
+    text-transform: uppercase;
+    font-size: 48px;
+    font-weight: bold;
+    margin: 46px 0px;
+    
+}
+.feature_content p{
+   color: black;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+    
+}
+.feature_content p i{
+       color: black;
+    font-size: 40px;
+    margin: 20px 0;
+     
+}
+.angel{
+    
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    color: gray;
+    font-size: 126px;
+    margin-top: 140px;
+    -moz-osx-font-smoot;
+}
+.achivment_bg{
+        background: url(../images/snowboarding.jpg) no-repeat;
+    min-height: 651px;
+    background-size: cover;
+    background-position: center center;
+    padding-top: 10px;
+}
+.achive_description{   
+    text-align: left;
+    width: 40%;
+    margin-left: 15%;
+    margin-top: 244px;
+
+}
+.achive_description h1{ 
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 48px;
+    font-weight: bold;
+
+}
+.achive_description p{    
+    text-align: left;
+    margin-top: -25px;}
+.slider{
+        margin-bottom: 10px;
+}
+.bg_white{background-color: white;
+    padding-top: 50px;
+        padding-bottom: 21px;
+}
+}
+.my_thumbnail{
+    margin-bottom: 15px;
+}
+.my_thumbnail p{
+    color: black;
+}
+.my_thumbnail a>img{
+    border: none;
+    width: 100%;
+}
+.bg_white{text-align: center;}
+.bg_white h1{    color: gray;
+    text-transform: uppercase;
+    font-size: 48px;
+    font-weight:normal;
+    margin: 10px 0px;
+
+}
+.bg_white p i{
+    color: gray;
+    font-size: 40px;
+    margin: 20px 0;
+}
+.footer_bg{
+    background-color: black;
+    min-height: 400px;
+}
+ul{}
+ul li{
+    text-decoration: none;
+    list-style: none;
+
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    text-transform: capitalize;
+}
+.footer_menu{
+    margin-top: 130px;
+}
+.social_icon{}
+.social_icon ul{}
+.social_icon ul li{float: left;
+    padding: 20px;
+
+}
+.ul li a fa{
+    padding-left: 0px;
+}
+
